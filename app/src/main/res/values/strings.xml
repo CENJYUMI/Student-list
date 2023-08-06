@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APExercise10</string>
+    <string name="app_school">Casa Del Niño Jesus De Pagbilao</string>
+    <string name="app_list">Student List Information</string>
+    <string name="app_level">Grade - 1</string>
+    <string name="app_section">St. John Bosco</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
